@@ -1,5 +1,5 @@
  
-<img align="right" width="400" height="400" alt=”Programadora” src="https://giphy.com/gifs/platzi-stem-developer-programadora-fAnzw6YK33jMwzp5wp">
+<img align="right" width="400px" height="400px" alt=”Programadora” src="https://giphy.com/gifs/platzi-stem-developer-programadora-fAnzw6YK33jMwzp5wp">
  
 # Welcome, friends!
  
@@ -11,6 +11,7 @@ Apaixonada por tecnologia, codificação e inovação
 Obs: Caso queira contribuir para melhorias e críticas construtivas sobre os projetos, estou a disposição.
  
 Vamos tomar um café? Encontre-me
+
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/brasilsoraya)](https://github.com/brasilsoraya)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/sorayabrasil/)](https://www.linkedin.com/in/sorayabrasil/)
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=seu_telefone_55+91+984387691&text=Hello!)](https://api.whatsapp.com/send?phone=seu_telefone_55+91+984387691&text=Hello!)
