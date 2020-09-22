@@ -1,5 +1,4 @@
  
-<img align="right" width="400px" height="400px" alt=”Programadora” src="https://giphy.com/gifs/platzi-stem-developer-programadora-fAnzw6YK33jMwzp5wp">
  
 # Welcome, Dev
  
